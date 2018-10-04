@@ -1,4 +1,5 @@
 # Planning Basketball Scorekeeper App
+![mockup]
 
 ## Model
 
@@ -68,3 +69,5 @@ What are the Logical Sections/Groupings of our UI?
             * play
 
 TODO: Create functions for each of the above
+
+[mockup]: https://i.imgur.com/ObU3zSC.png
